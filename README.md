@@ -25,7 +25,7 @@ Paddle is released as a package written in [Go](https://golang.org) under the MI
 package main
 import (
 	"fmt"
-	"yourmodule/paddle"
+	"github.com/cs-bic/paddle"
 )
 func main() {
 	block := 100
